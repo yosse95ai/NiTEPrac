@@ -14,3 +14,8 @@
 ポーズ検出をする
 
 ![ret3](https://github.com/yosse95ai/NiTEPrac/blob/src/gif/ret3.gif)
+
+## Prac4
+ジェスチャーを検出する
+
+![ret3](https://github.com/yosse95ai/NiTEPrac/blob/src/gif/ret4.gif)
