@@ -8,4 +8,4 @@
 ## Prac1
 関節検出をする
 
-![ret1](https://github.com/yosse95ai/NiTEPrac/blob/src/gif/ret2.gif)
+![ret2](https://github.com/yosse95ai/NiTEPrac/blob/src/gif/ret2.gif)
