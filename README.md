@@ -18,4 +18,9 @@
 ## Prac4
 ジェスチャーを検出する
 
-![ret3](https://github.com/yosse95ai/NiTEPrac/blob/src/gif/ret4.gif)
+![ret4](https://github.com/yosse95ai/NiTEPrac/blob/src/gif/ret4.gif)
+
+## Prac5
+手の軌跡を追跡する
+
+![ret5](https://github.com/yosse95ai/NiTEPrac/blob/src/gif/ret5.gif)
